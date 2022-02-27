@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6ce82e9a26ec5de4d9e62586b638b300
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chlorinar
+  fontNames:
+  - Chlorinar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 58472200ddd08274a984d5b91ddb1107, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
